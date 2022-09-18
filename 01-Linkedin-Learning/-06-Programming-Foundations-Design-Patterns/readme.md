@@ -14,4 +14,4 @@
 - Using design principles to guide your object-oriented design
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/posts/fatma-aly-89bb37111_certificate-of-completion-activity-6924264253134647296-gHl0?utm_source=share&utm_medium=member_desktop)
