@@ -11,4 +11,5 @@ The foundations of cloud computing
 The core AWS services, including compute, network, databases, and storage
 Security best practices and compliance in the AWS Cloud
 The cloud costs, economics, and billing practices of the AWS Cloud
-By the end of this course, you'll understand AWS services and how they are leveraged to build applications and provide products and services in the real world. Join your instructor, Kesha Williams, and prepare to become an AWS Certified Cloud Practitioner!
+By the end of this course, you'll understand AWS services and how they are leveraged to build applications and provide products and services in the real world. Join your instructor, Kesha Williams, and prepare to become an AWS Certified Cloud Practitioner! 
+https://verify.acloud.guru/BF934E426B1E
