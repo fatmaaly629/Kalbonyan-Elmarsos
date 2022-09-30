@@ -114,6 +114,12 @@
 - [Project-code](./Projects/ingredients-app/)
 - [Live Demo]()
 
+
+
+
+
+
+
 ### Section 29 Project
 
 - [Project-code](./Projects/Section-29/)
@@ -132,3 +138,29 @@
 ![(http://ude.my/UC-b3280a27-b45f-4fc1-b609-92a935407dd7)](https://via.placeholder.com/468x300?text=Certificate+Here)
 <br>
 Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme
+
+
+
+there  are a prbolem in my system & i tried all of  solution  reinstalling node & npm  but it amistake inthe system  in projects ( javascript ,node,react)
+lib\LoaderRunner.js:233:18
+    at context.callback (F:\kalbonan elmarsos\REACT\section 8\01-starting-setup\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at F:\kalbonan elmarsos\REACT\section 8\01-starting-setup\node_modules\babel-loader\lib\index.js:59:103 {
+  opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ],
+  library: 'digital envelope routines',
+  reason: 'unsupported',
+  code: 'ERR_OSSL_EVP_UNSUPPORTED'
+}
+
+Node.js v18.9.0
+PS F:\kalbonan elmarsos\REACT\section 8\01-starting-setup> firebase login
+firebase : File C:\Users\XPS\AppData\Roaming\npm\firebase.ps1 cannot be loaded
+because running scripts is disabled on this system. For more information, see
+about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:1
++ firebase login
++ ~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+
+
+
