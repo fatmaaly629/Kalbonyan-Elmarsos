@@ -1,0 +1,5 @@
+{
+  "name": "notes5",
+  "region": "us-east-1",
+  "main": "stacks/index.js"
+}
